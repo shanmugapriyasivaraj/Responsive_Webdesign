@@ -1,0 +1,40 @@
+body {
+  background-color: whitesmoke;
+}
+.first {
+  height: 60px;
+  width: 270px;
+  background-color: black;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.second {
+  height: 60px;
+  width: 270px;
+  background-color: orangered;
+}
+.third {
+  height: 60px;
+  width: 270px;
+  background-color: orange;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.flag {
+  border-radius: 10px;
+  padding: 0px;
+  background-color: white;
+  width: 270px;
+  height: 400px;
+  font-size: 20px;
+  box-shadow: 1px 2px 3px 1px;
+}
+h4 {
+  margin-left: 30px;
+}
+.details {
+  margin-left: 30px;
+}
+.side-heading {
+  font-weight: bold;
+}
